@@ -1,1 +1,3 @@
-
+import pandas as pd
+import numpy as np
+shooting_split = pd.read_csv("Shooting Splits.csv")
